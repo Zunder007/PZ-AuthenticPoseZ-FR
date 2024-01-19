@@ -1,0 +1,4 @@
+Recipes_FR = {
+	Recipe_Make_Card_Wallet = "",
+	Recipe_Open_Card_Pack = "",
+}
