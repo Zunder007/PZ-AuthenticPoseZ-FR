@@ -1,4 +1,4 @@
 Recipes_FR = {
-	Recipe_Make_Card_Wallet = "",
-	Recipe_Open_Card_Pack = "",
+	Recipe_Make_Card_Wallet = "Fabriquer Portefeuille pour Carte",
+	Recipe_Open_Card_Pack = "Ouvrir Paquet de Carte",
 }
