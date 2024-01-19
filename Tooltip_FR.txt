@@ -1,0 +1,5 @@
+Tooltip_FR = {
+	Tooltip_CardPack = "Ouvrir pour obtenir 3 cartes aléatoires !",
+	Tooltip_AD_Card = "Gardez cette carte dans votre inventaire pour poser/provoquer",
+	Tooltip_CardWallet = "Fabriquez un portefeuille pour ranger les cartes de danse et de pose.",
+}
