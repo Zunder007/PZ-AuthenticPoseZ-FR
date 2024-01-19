@@ -1,0 +1,4 @@
+UI_FR = {
+	UI_ClothingType_CardWallet = "Portefeuille pour Carte",
+	UI_optionscreen_binding_CustomEmote = "binding_CustomEmote",
+}
