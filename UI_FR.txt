@@ -1,4 +1,4 @@
 UI_FR = {
 	UI_ClothingType_Wallet = "Portefeuille pour Carte",
-	UI_optionscreen_binding_CustomEmote = "binding_CustomEmote",
+	UI_optionscreen_binding_CustomEmote = "Authentic Pose Z Émote Personnalisé",
 }
